@@ -1,7 +1,11 @@
 # Webflux Example
 
 This project bornt with the aim of show an example with Spring WebFlux in reactive way.
-If you want more information you can take a look into https://refactorizando.com/guia-webflux-spring-boot
+If you want more information you can take a look into:
+
+* Spanish: https://refactorizando.com/guia-webflux-spring-boot
+* English: https://refactorizando.com/en/webflux-guide-spring-boot
+
 
 ## How does it run?
 
